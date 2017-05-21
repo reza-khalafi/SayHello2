@@ -1,0 +1,16 @@
+PODS:
+  - SayHello2 (0.1.0)
+
+DEPENDENCIES:
+  - SayHello2 (from `../`)
+
+EXTERNAL SOURCES:
+  SayHello2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SayHello2: a6435d8a8293d01e9e802aa3195e9cc311e9d789
+
+PODFILE CHECKSUM: 92d79e5f24c187024a2c6dafde96dbee0a7e3048
+
+COCOAPODS: 1.2.1
