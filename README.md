@@ -19,10 +19,19 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "SayHello2"
 ```
+## Installation  
+```ruby
+import SayHello2
+```
+
+## Using  
+```ruby
+Say().sayHello()
+```
 
 ## Author
 
-r.khalafi65@gmail.com, r.khalafi65@gmail.com
+Reza Khalafi(@r.khalafi65@gmail.com)
 
 ## License
 
